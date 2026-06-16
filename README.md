@@ -1,5 +1,5 @@
 # 1st-repo
-html and css project saample
+html and css project sample
 
 restaurant-website/<br>
 │<br>
