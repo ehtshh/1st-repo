@@ -1,26 +1,26 @@
 # 1st-repo
 html and css project saample
 
-restaurant-website/
-│
-├── index.html
-├── menu.html
-├── about.html
-├── contact.html
-├── style.css
-│
-└── images/
-    ├── restaurant.jpg
-    ├── biryani.jpg
-    ├── cknnoodles.jpg
-    ├── dosa.jpg
-    └── idly.jpg
-    ├── kabab.jpg
-    ├──  menu.jpg
-    ├──  nonveg.jpg
-    ├──  veg.jpg
-    ├──    vegnoodles.jpg
-
+restaurant-website/<br>
+│<br>
+├── index.html<br>
+├── menu.html<br>
+├── about.html<br>
+├── contact.html<br>
+├── style.css<br>
+│<br>
+└── images/<br>
+    ├── restaurant.jpg<br>
+    ├── biryani.jpg<br>
+    ├── cknnoodles.jpg<br>
+    ├── dosa.jpg<br>
+    └── idly.jpg<br>
+    ├── kabab.jpg<br>
+    ├──  menu.jpg<br>
+    ├──  nonveg.jpg<br>
+    ├──  veg.jpg<br>
+    ├──    vegnoodles.jpg<br>
+<br>
 ## 🚀 Pages
 
 ### Home Page
